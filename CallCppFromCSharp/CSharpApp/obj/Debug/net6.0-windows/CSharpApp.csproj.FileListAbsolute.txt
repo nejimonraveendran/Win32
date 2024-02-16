@@ -1,0 +1,17 @@
+C:\_MyFiles\Programming\GitHub\Win32\CallCFromCSharp\CSharpApp\bin\Debug\net6.0-windows\CSharpApp.exe
+C:\_MyFiles\Programming\GitHub\Win32\CallCFromCSharp\CSharpApp\bin\Debug\net6.0-windows\CSharpApp.deps.json
+C:\_MyFiles\Programming\GitHub\Win32\CallCFromCSharp\CSharpApp\bin\Debug\net6.0-windows\CSharpApp.runtimeconfig.json
+C:\_MyFiles\Programming\GitHub\Win32\CallCFromCSharp\CSharpApp\bin\Debug\net6.0-windows\CSharpApp.dll
+C:\_MyFiles\Programming\GitHub\Win32\CallCFromCSharp\CSharpApp\bin\Debug\net6.0-windows\CSharpApp.pdb
+C:\_MyFiles\Programming\GitHub\Win32\CallCFromCSharp\CSharpApp\obj\Debug\net6.0-windows\CSharpApp.csproj.AssemblyReference.cache
+C:\_MyFiles\Programming\GitHub\Win32\CallCFromCSharp\CSharpApp\obj\Debug\net6.0-windows\CSharpApp.Form1.resources
+C:\_MyFiles\Programming\GitHub\Win32\CallCFromCSharp\CSharpApp\obj\Debug\net6.0-windows\CSharpApp.csproj.GenerateResource.cache
+C:\_MyFiles\Programming\GitHub\Win32\CallCFromCSharp\CSharpApp\obj\Debug\net6.0-windows\CSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\_MyFiles\Programming\GitHub\Win32\CallCFromCSharp\CSharpApp\obj\Debug\net6.0-windows\CSharpApp.AssemblyInfoInputs.cache
+C:\_MyFiles\Programming\GitHub\Win32\CallCFromCSharp\CSharpApp\obj\Debug\net6.0-windows\CSharpApp.AssemblyInfo.cs
+C:\_MyFiles\Programming\GitHub\Win32\CallCFromCSharp\CSharpApp\obj\Debug\net6.0-windows\CSharpApp.csproj.CoreCompileInputs.cache
+C:\_MyFiles\Programming\GitHub\Win32\CallCFromCSharp\CSharpApp\obj\Debug\net6.0-windows\CSharpApp.dll
+C:\_MyFiles\Programming\GitHub\Win32\CallCFromCSharp\CSharpApp\obj\Debug\net6.0-windows\refint\CSharpApp.dll
+C:\_MyFiles\Programming\GitHub\Win32\CallCFromCSharp\CSharpApp\obj\Debug\net6.0-windows\CSharpApp.pdb
+C:\_MyFiles\Programming\GitHub\Win32\CallCFromCSharp\CSharpApp\obj\Debug\net6.0-windows\CSharpApp.genruntimeconfig.cache
+C:\_MyFiles\Programming\GitHub\Win32\CallCFromCSharp\CSharpApp\obj\Debug\net6.0-windows\ref\CSharpApp.dll
